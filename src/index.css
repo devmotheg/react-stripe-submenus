@@ -10,7 +10,7 @@
 
 @layer base {
 	body {
-		@apply min-w-[400px];
+		@apply relative min-w-[500px] min-h-screen;
 	}
 
 	#root {
